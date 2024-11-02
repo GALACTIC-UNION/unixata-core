@@ -52,7 +52,7 @@ Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) fo
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For inquiries, please contact the project maintainer at [support@galacticunion.org].
+For inquiries, please contact the project maintainer at [support@galacticunion.org](support@galacticunion.org).
 
 
 
